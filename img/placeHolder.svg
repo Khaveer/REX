@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243.29" height="243.29" viewBox="0 0 243.29 243.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e7635a;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        font-size: 40.44px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>placeHolder</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3" data-name="Layer 3">
+      <rect class="cls-1" x="3" y="3" width="237.29" height="237.29"/>
+      <text class="cls-2" transform="matrix(0.71, -0.71, 0.71, 0.71, 41.97, 188.01)"><tspan class="cls-3">P</tspan><tspan class="cls-4" x="21.31" y="0">la</tspan><tspan class="cls-5" x="50.34" y="0">c</tspan><tspan x="68.22" y="0">e Holder </tspan><tspan class="cls-5"><tspan x="46.06" y="48.52">g</tspan><tspan class="cls-3" x="68.42" y="48.52">r</tspan><tspan class="cls-4" x="81.44" y="48.52">aphic</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

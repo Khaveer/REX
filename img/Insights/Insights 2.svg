@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="641.66" height="447.47" viewBox="0 0 641.66 447.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e7635a;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 58.06px;
+        fill: #fff;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </defs>
+  <title>Layer 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Layer_2-2" data-name="Layer 2-2">
+        <rect class="cls-1" width="641.66" height="447.47"/>
+        <g class="cls-2">
+          <text class="cls-3" transform="translate(204.82 240.77)">I</text>
+          <text class="cls-4" transform="translate(219.28 240.77)">nsig</text>
+          <text class="cls-4" transform="translate(320.54 240.77)">h</text>
+          <text class="cls-4" transform="translate(352.54 240.77)">ts 2</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
